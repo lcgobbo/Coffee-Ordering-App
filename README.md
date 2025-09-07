@@ -1,29 +1,5 @@
-☕ Sistema de Pedidos de Café
-Um programa em Python simples e interativo para gerenciar pedidos de café em um ambiente de cafeteria.
-
-📋 Funcionalidades
-Menu de Cafés: Visualize opções disponíveis com preços
-
-Adicionar Itens: Selecione cafés para adicionar ao pedido
-
-Visualizar Pedido: Veja todos os itens adicionados e o total
-
-Checkout: Finalize o pedido com confirmação
-
-Interface Interativa: Menu numérico fácil de usar
-
-🧮 Itens do Menu
-Espresso - $2.5
-
-Latte - $3.5
-
-Cappuccino - $3.0
-
-Americano - $2.0
-
-em inglês
-☕ Coffee Order System
-A simple and interactive Python program for managing coffee orders in a café environment.
+☕ Coffee Ordering App
+A simple and interactive Python program for managing coffee orders.
 
 📋 Features
 Coffee Menu: View available options with prices
