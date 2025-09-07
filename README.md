@@ -38,6 +38,3 @@ git clone https://github.com/lcgobbo/Coffee-Ordering-App.git
 ### 2. Run the program
 
 python main.py
-
-
-Manages the order flow
