@@ -1,32 +1,39 @@
-☕ Coffee Ordering App
+# ☕ Coffee Ordering App
 A simple and interactive Python program for managing coffee orders.
 
-📋 Features
-Coffee Menu: View available options with prices
+------------------------------------------------------------------------------------------------------------------------
 
-Add Items: Select coffees to add to your order
+## 📋 Features
 
-View Order: See all added items and the total amount
+- Coffee Menu: View available options with prices
 
-Checkout: Complete your order with confirmation
+- Add Items: Select coffees to add to your order
 
-Interactive Interface: Easy-to-use numeric menu
+- View Order: See all added items and the total amount
 
-🧮 Menu Items
-Espresso - $2.5
+- Checkout: Complete your order with confirmation
 
-Latte - $3.5
+- Interactive Interface: Easy-to-use numeric menu
 
-Cappuccino - $3.0
+------------------------------------------------------------------------------------------------------------------------
 
-Americano - $2.0
+## 🧮 Menu Items
 
-🚀 How to Run
-Make sure you have Python 3.x installed on your system
+* Espresso - $2.5
 
-Save the code to a file (e.g., coffee_order.py)
+* Latte - $3.5
 
-Run the program using:
+* Cappuccino - $3.0
+
+* Americano - $2.0
+
+------------------------------------------------------------------------------------------------------------------------
+
+##🚀 How to Run
+
+### 1. Clone the repository
+
+git clone https://github.com/lcgobbo/revenda-carros.git
 
 bash
 python coffee_order.py
