@@ -33,52 +33,11 @@ A simple and interactive Python program for managing coffee orders.
 
 ### 1. Clone the repository
 
-git clone https://github.com/lcgobbo/revenda-carros.git
+git clone https://github.com/lcgobbo/Coffee-Ordering-App.git
 
-bash
-python coffee_order.py
-🎮 How to Use
-Run the program
+### 2. Run the program
 
-Choose an option by entering the corresponding number:
+python main.py
 
-Options 1-4: Add the corresponding coffee to your order
-
-Option 5: View your current order
-
-Option 6: Proceed to checkout
-
-Option 7: Exit the program
-
-During checkout:
-
-Confirm with "yes" to complete your order
-
-Enter anything else to cancel checkout
-
-🏗️ Code Structure
-Classes
-Coffee - Represents a coffee item
-
-name: Name of the coffee
-
-price: Price of the coffee
-
-Order - Manages the customer's order
-
-items: List of coffee items in the order
-
-add_item(): Add a coffee to the order
-
-total_price(): Calculate the total cost
-
-show_order(): Display order details
-
-checkout(): Handle the checkout process
-
-Main Function
-Displays the coffee menu
-
-Handles user input and navigation
 
 Manages the order flow
